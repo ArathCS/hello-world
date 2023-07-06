@@ -2,7 +2,7 @@
 Primer repositorio
 <html>
   <head>
-    <title>Hola</title>
+    Hola
   </head>
   <body>
     <h1>Buenas...</h1>
